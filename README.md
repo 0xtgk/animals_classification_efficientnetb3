@@ -1,7 +1,7 @@
 ![Alt Text](https://datascientest.com/en/wp-content/uploads/sites/9/2023/10/formation-tensorflow-1024x453.jpg)
 
 
-# Animal Image Classification
+# Animal Image Classification using TensorFlow and Flask
 
 This repository contains a project for classifying images of animals using a deep learning model. The model is trained on the Animals-10 dataset from Kaggle and achieves an accuracy of 97.7%.
 
